@@ -1,0 +1,56 @@
+ body{
+    background-
+    :#EEEDEB;
+ }
+ .main{
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   font-family: "Wittgenstein", serif;
+   font-size: 18px;
+   
+}
+.sub{
+   min-width:  317px;
+   height: 415px;
+   background:white;
+   position: relative;
+   border-radius:8px;
+   padding-top: 30px;
+}
+.sub h2{
+   font-family:'Times New Roman', Times, serif;
+   font-size: 30px;
+   color: #219C90;
+}
+#weight{
+   outline: none;
+   border: none;
+   border-bottom: 1px solid #131842;
+   width: 60%;
+   text-align: center;
+   font-size: 28px;
+}
+#height{
+   outline: none;
+   border: none;
+   border-bottom: 1px solid #131842;
+   width: 60%;
+   text-align: center;
+   font-size: 28px;
+}
+.button1{
+   width: 267px;
+   height: 33px;
+   background-color: #62760C;
+   border-radius: 5px;
+}
+.button2{
+   width: 267px;
+   height: 33px;
+   border-radius: 5px;
+   background-color: #FFB200;
+}
+ 

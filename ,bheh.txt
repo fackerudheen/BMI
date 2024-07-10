@@ -1,0 +1,10 @@
+ // function BMI(){
+        //     const h=height.value;
+        //     const w=weight.value;
+        //     if (h=="" || w=="" ) {
+        //         result.innerHTML=`pleas enter value`;
+        //     // }else{
+        //         let temp=w/((h/100)**2);
+        //         bmi=temp.toFixed(2);
+        //     //     alert(bmi);
+        //     // }
